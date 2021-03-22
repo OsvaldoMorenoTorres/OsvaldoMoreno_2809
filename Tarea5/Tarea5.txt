@@ -1,0 +1,14 @@
+Concepto de organización
+
+Desde el punto de vista de la organización y administración de un centro 
+de cómputo, podemos definir a la organización como el proceso para poder
+facilitar o hacer menos complejo el funcionamiento y manejo de este,
+determinando las actividades a llevar a cabo, agrupándolas y asignándolas
+a los miembros que les corresponda, para poder formar una estructura.
+
+Por ejemplo:
+
+Dividir las tareas a todos los encargados del centro de cómputo, para que uno
+se encargue de operar el sistema central, otro realice las copias de respaldo,
+otro miembro realice el mantenimiento, alguien más lleve los registros de 
+fallas, problemas, etc.
